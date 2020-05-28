@@ -32,3 +32,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+## Copyright Notice
+adding copyrights
+
