@@ -45,5 +45,6 @@ Crucifix plaid non flexitarian 90's. Austin viral yr salvia, nostrud 90's keffiy
  ut skateboard letterpress. Copper mug in 3 wolf moon eiusmod.
 
 ## Copyright Notice
-adding copyrights
+alrigth reserved
+
 
